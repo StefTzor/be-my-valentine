@@ -27,12 +27,12 @@ const firestore = {
 /* UI DATA
 -------------------------------- */
 const uiData = {
-    valentinesFirstName: 'Vicky',
+    valentinesFirstName: 'Evdokia "Vicky"',
     valentinesLastName: 'Vasila',
-    headerMessage: 'Will you bee my Valentine? 🌹',
+    headerMessage: 'Will you bee my Valentine date? 🌹',
     resultHeaderYes: 'You said yes! 😍',
     resultHeaderNo: 'You said no 😢',
-    yesImgLink: 'https://media.giphy.com/media/b5LTssxCLpvVe/giphy.gif',
-    noImgLink: 'https://media.giphy.com/media/wIhfELB4LvDhe/giphy.gif',
+    yesImgLink: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt5OG04c3FtZWM2Y21qZ3MxODgyajJlZGtmNWQ4YWNnZ2JveWV4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5h4gvxxc1qlG/giphy.gif',
+    noImgLink: 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lnNHM1OWF2azNuNDVueHpoZmNzdGFzZnhyajFrZ3VzNGlkazBnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif',
     lastAnswerHeading: 'Last answered:',
 };
