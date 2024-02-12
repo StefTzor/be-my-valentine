@@ -6,15 +6,15 @@
 
 /* FIREBASE CONFIG
 -------------------------------- */
-    const firebaseConfig = {
-      apiKey: "AIzaSyDeaQLKMLg6pcPcpFroBDDAvLjMLmL3ed0",
-      authDomain: "be-my-valentine-170b5.firebaseapp.com",
-      databaseURL: "https://be-my-valentine-170b5-default-rtdb.europe-west1.firebasedatabase.app/",
-      projectId: "be-my-valentine-170b5",
-      storageBucket: "be-my-valentine-170b5.appspot.com",
-      messagingSenderId: "235091871151",
-      appId: "1:235091871151:web:1a1c90e202167c1ecedb5a"
-    };
+const firebaseConfig = {
+    apiKey: "AIzaSyAcyXNnkIx3yzeSePUWeOdFdxqfJ5sqBC8",
+    authDomain: "be-my-valentine-b0865.firebaseapp.com",
+    projectId: "be-my-valentine-b0865",
+    storageBucket: "be-my-valentine-b0865.appspot.com",
+    messagingSenderId: "66246510885",
+    appId: "1:66246510885:web:cb39a4db366b508917f2cc",
+    measurementId: "G-G9MN6VW1FT"
+  };
 
 /* CLOUD FIRESTORE CONFIG
 -------------------------------- */
