@@ -19,7 +19,7 @@ const firebaseConfig = {
 -------------------------------- */
 const firestore = {
     collectionName: 'valentines',
-    docID: 'test'
+    docID: 'VJdFjvRIkGAgPJd7F2xf'
 };
 
 
