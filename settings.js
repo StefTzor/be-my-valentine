@@ -6,7 +6,14 @@
 
 /* FIREBASE CONFIG
 -------------------------------- */
-// PASTE YOUR WEB APP FIREBASE CONFIG HERE
+const firebaseConfig = {
+  apiKey: "AIzaSyDeaQLKMLg6pcPcpFroBDDAvLjMLmL3ed0",
+  authDomain: "be-my-valentine-170b5.firebaseapp.com",
+  projectId: "be-my-valentine-170b5",
+  storageBucket: "be-my-valentine-170b5.appspot.com",
+  messagingSenderId: "235091871151",
+  appId: "1:235091871151:web:1a1c90e202167c1ecedb5a"
+};
 
 
 /* CLOUD FIRESTORE CONFIG
