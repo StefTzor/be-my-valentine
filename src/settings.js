@@ -15,7 +15,6 @@ const firebaseConfig = {
   appId: "1:235091871151:web:1a1c90e202167c1ecedb5a"
 };
 
-
 /* CLOUD FIRESTORE CONFIG
 -------------------------------- */
 const firestore = {
