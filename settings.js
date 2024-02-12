@@ -27,9 +27,9 @@ const firestore = {
 /* UI DATA
 -------------------------------- */
 const uiData = {
-    valentinesFirstName: 'Ashley',
-    valentinesLastName: 'Testington',
-    headerMessage: 'will you bee my Valentine? 🌹',
+    valentinesFirstName: 'Vicky',
+    valentinesLastName: 'Vasila',
+    headerMessage: 'Will you bee my Valentine? 🌹',
     resultHeaderYes: 'You said yes! 😍',
     resultHeaderNo: 'You said no 😢',
     yesImgLink: 'https://media.giphy.com/media/b5LTssxCLpvVe/giphy.gif',
